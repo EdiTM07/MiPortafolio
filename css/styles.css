@@ -105,7 +105,7 @@ body {
 
 /* Barra de navegación */
 .navbar {
-    background-color: var(--color-navbar);
+    background-color: transparent;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 20px;
