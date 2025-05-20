@@ -56,7 +56,7 @@ contactForm.addEventListener("submit", function (e) {
         `*Mensaje:* ${message}`;
 
     // Mi numero de WhatsApp
-    const whatsappNumber = "5939855365554";
+    const whatsappNumber = "593985365554";
     
     // Enlace de whatsapp
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;  
